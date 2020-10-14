@@ -1,0 +1,10 @@
+Esto | 1
+es | 1
+un | 1
+archivo | 1
+de | 2
+prueba | 1
+para | 1
+el | 1
+analizador | 1
+texto | 1
