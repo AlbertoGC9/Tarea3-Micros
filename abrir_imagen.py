@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Wed Oct 14 02:03:04 2020
 
@@ -7,7 +7,7 @@ Created on Wed Oct 14 02:03:04 2020
 
 from PIL import Image # Librería necesaria
 #   import time # para contador de tiempo
-### parámetros de entrada arir imagen:
+### parámetros de entrada abrir imagen:
 ### im: nombre de la imagen sin extensión
 ### input_ruta: se coloca la direccion del archivo
 ### scale: 0 para 1:1, 1 para 1:2, 2 para 2:1
