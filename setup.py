@@ -9,7 +9,6 @@ setup(
   # Comandos instalacion
   packages = ['Metodos'],
   install_requires = ['pygame','PIL'],
-  version = '1.0',
   license = 'N/A',
   description = 'Paquete para Tarea 3 del curso de Microprocesadores y microcontroladores'
 )
