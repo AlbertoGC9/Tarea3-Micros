@@ -7,4 +7,4 @@ setup(
   author = 'A. Guillen; E. Montero; A. Murillo; E. Salazar'
   # Comandos
   packages = ['PaquteTarea3']
-  install_requires = ['','']
+  install_requires = ['pygame','PIL']
