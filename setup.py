@@ -1,4 +1,4 @@
-from setup_tools import setup
+from setuptools import setup
 
 setup(
   # Descripcion
