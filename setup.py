@@ -8,7 +8,7 @@ setup(
   author_email = 'N/A',
   # Comandos instalacion
   packages = ['Metodos'],
-  install_requires = ['pygame','PIL'],
+  install_requires = ['pygame','Pillow'],
   license = 'N/A',
   description = 'Paquete para Tarea 3 del curso de Microprocesadores y microcontroladores'
 )
